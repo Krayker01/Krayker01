@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 style="color:#F5A623;">I code, build, and invent 👋</h1>
 
-<!--
-**Krayker01/Krayker01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+Hi! My name is Vlad. My code is my creation, and I always look for new ways to make projects better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+**Frontend:** React, EJS, HTML, CSS, JavaScript (ES6)  
+**Backend:** Node.js, Express, REST API, Sessions & Cookies  
+**Database:** MongoDB  
+**Other:** Python (basic knowledge)
+
+---
+
+## 📂 Projects
+
+Here is my current project:  
+
+- [MERN ToDo App](https://github.com/Krayker01/MERN-ToDo) 
+  - Demo: *(https://mern-todo-xl59.onrender.com)*
+
+*(More projects coming soon!)*
+
+---
+
+## 📫 Contact
+
+- Email: vlad.yrkevich@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/vladyslav-yurkevych/](https://www.linkedin.com/in/vladyslav-yurkevych/)  
+
+---
+
+## 📈 GitHub Stats
+
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krayker01&show_icons=true&theme=tokyonight)
+
+</td>
+<td>
+
+<img src="/assets/pictures/Phineas_Flynn.png" width="180" />
+
+</td>
+</tr>
+</table>
