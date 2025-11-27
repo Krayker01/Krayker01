@@ -1,4 +1,4 @@
-<h1 style="color:#F5A623;">I code, build, and invent 👋</h1>
+<h1>I code, build, and invent 👋</h1>
 
 <table>
 <tr>
@@ -13,7 +13,7 @@ Hi! My name is Vlad. My code is my creation, and I always look for new ways to m
 **Frontend:** React, EJS, HTML, CSS, JavaScript (ES6)  
 **Backend:** Node.js, Express, REST API, Sessions & Cookies  
 **Database:** MongoDB  
-**Other:** Python (basic knowledge)
+**Other:** Python
 
 ---
 
