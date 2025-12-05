@@ -9,9 +9,7 @@ Hi! My name is Vlad. My code is my creation, and I always look for new ways to m
 ## 💻 Skills
 
 **Frontend:** React, EJS, HTML, CSS, JavaScript (ES6)  
-**Backend:** Node.js, Express, REST API, Sessions & Cookies  
-**Database:** MongoDB  
-**Other:** Python
+**Backend:** Node.js, Express, Python
 
 <hr>
 
@@ -32,7 +30,3 @@ Here is my current project:
 - LinkedIn: [https://www.linkedin.com/in/vladyslav-yurkevych/](https://www.linkedin.com/in/vladyslav-yurkevych/)
 
 <hr>
-
-## 📈 GitHub Stats
-
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krayker01&show_icons=true&theme=tokyonight)
