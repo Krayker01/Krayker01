@@ -1,58 +1,47 @@
 <h1>I code, build, and invent 👋</h1>
 
-<div class="container">
-  <div class="text">
-    <p>Hi! My name is Vlad. My code is my creation, and I always look for new ways to make projects better.</p>
-    
-    <h2>💻 Skills</h2>
-    <p><strong>Frontend:</strong> React, EJS, HTML, CSS, JavaScript (ES6)<br>
-       <strong>Backend:</strong> Node.js, Express, REST API, Sessions & Cookies<br>
-       <strong>Database:</strong> MongoDB<br>
-       <strong>Other:</strong> Python
-    </p>
-    
-    <h2>📂 Projects</h2>
-    <p>Here is my current project:</p>
-    <ul>
-      <li><a href="https://github.com/Krayker01/MERN-ToDo">MERN ToDo App</a></li>
-      <li>Demo: <a href="https://mern-todo-xl59.onrender.com">https://mern-todo-xl59.onrender.com</a></li>
-    </ul>
+<table>
+<tr>
+<td>
 
-    <h2>📫 Contact</h2>
-    <p>Email: vlad.yrkevich@gmail.com<br>
-       LinkedIn: <a href="https://www.linkedin.com/in/vladyslav-yurkevych/">https://www.linkedin.com/in/vladyslav-yurkevych/</a>
-    </p>
-  </div>
+<p>Hi! My name is Vlad. My code is my creation, and I always look for new ways to make projects better.</p>
 
-  <div class="image">
-    <img src="/assets/pictures/Phineas_Flynn.png" alt="Phineas Flynn" width="180" />
-  </div>
-</div>
+<hr>
 
-<style>
-  .container {
-    display: flex;
-    gap: 20px;
-    align-items: flex-start;
-  }
+<h2>💻 Skills</h2>
+<ul>
+  <li><strong>Frontend:</strong> React, EJS, HTML, CSS, JavaScript (ES6)</li>
+  <li><strong>Backend:</strong> Node.js, Express, REST API, Sessions & Cookies</li>
+  <li><strong>Database:</strong> MongoDB</li>
+  <li><strong>Other:</strong> Python</li>
+</ul>
 
-  .text {
-    flex: 1;
-  }
+<hr>
 
-  .image {
-    flex-shrink: 0;
-  }
+<h2>📂 Projects</h2>
+<p>Here is my current project:</p>
+<ul>
+  <li><a href="https://github.com/Krayker01/MERN-ToDo">MERN ToDo App</a></li>
+  <li>Demo: <a href="https://mern-todo-xl59.onrender.com">https://mern-todo-xl59.onrender.com</a></li>
+</ul>
+<p><em>More projects coming soon!</em></p>
 
-  /* Мобильная версия */
-  @media (max-width: 768px) {
-    .container {
-      flex-direction: column;
-      align-items: center;
-    }
+<hr>
 
-    .image {
-      margin-top: 20px;
-    }
-  }
-</style>
+<h2>📫 Contact</h2>
+<ul>
+  <li>Email: vlad.yrkevich@gmail.com</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/vladyslav-yurkevych/">https://www.linkedin.com/in/vladyslav-yurkevych/</a></li>
+</ul>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Krayker01&show_icons=true&theme=tokyonight" />
+
+</td>
+<td valign="top">
+  <img src="/assets/pictures/Phineas_Flynn.png" width="180" align="right" />
+</td>
+</tr>
+</table>
