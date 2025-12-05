@@ -1,48 +1,58 @@
 <h1>I code, build, and invent 👋</h1>
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-  <div style="flex: 1; min-width: 250px; max-width: 600px;">
-  
-  ## Hi! I'm Vlad
+<div class="container">
+  <div class="text">
+    <p>Hi! My name is Vlad. My code is my creation, and I always look for new ways to make projects better.</p>
+    
+    <h2>💻 Skills</h2>
+    <p><strong>Frontend:</strong> React, EJS, HTML, CSS, JavaScript (ES6)<br>
+       <strong>Backend:</strong> Node.js, Express, REST API, Sessions & Cookies<br>
+       <strong>Database:</strong> MongoDB<br>
+       <strong>Other:</strong> Python
+    </p>
+    
+    <h2>📂 Projects</h2>
+    <p>Here is my current project:</p>
+    <ul>
+      <li><a href="https://github.com/Krayker01/MERN-ToDo">MERN ToDo App</a></li>
+      <li>Demo: <a href="https://mern-todo-xl59.onrender.com">https://mern-todo-xl59.onrender.com</a></li>
+    </ul>
 
-  My code is my creation, and I always look for new ways to make projects better.
-
-  ---
-
-  ## 💻 Skills
-
-  **Frontend:** React, EJS, HTML, CSS, JavaScript (ES6)  
-  **Backend:** Node.js, Express, REST API, Sessions & Cookies  
-  **Database:** MongoDB  
-  **Other:** Python
-
-  ---
-
-  ## 📂 Projects
-
-  Here is my current project:  
-
-  - [MERN ToDo App](https://github.com/Krayker01/MERN-ToDo)  
-    - Demo: *(https://mern-todo-xl59.onrender.com)*
-
-  *(More projects coming soon!)*
-
-  ---
-
-  ## 📫 Contact
-
-  - Email: vlad.yrkevich@gmail.com  
-  - LinkedIn: [https://www.linkedin.com/in/vladyslav-yurkevych/](https://www.linkedin.com/in/vladyslav-yurkevych/)
-
-  ---
-
-  ## 📈 GitHub Stats
-
-  ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krayker01&show_icons=true&theme=tokyonight&cache_seconds=3600)
-
+    <h2>📫 Contact</h2>
+    <p>Email: vlad.yrkevich@gmail.com<br>
+       LinkedIn: <a href="https://www.linkedin.com/in/vladyslav-yurkevych/">https://www.linkedin.com/in/vladyslav-yurkevych/</a>
+    </p>
   </div>
 
-  <div style="flex: 0 0 180px; margin-left: 20px; margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/Krayker01/fish-project/main/assets/pictures/Phineas_Flynn.png" width="180" />
+  <div class="image">
+    <img src="/assets/pictures/Phineas_Flynn.png" alt="Phineas Flynn" width="180" />
   </div>
 </div>
+
+<style>
+  .container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }
+
+  .text {
+    flex: 1;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+
+  /* Мобильная версия */
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .image {
+      margin-top: 20px;
+    }
+  }
+</style>
